@@ -1,0 +1,12 @@
+img{
+    height: 350px;
+    width: 350px;
+    margin-top: 70px;
+    margin-left: 50px;
+    box-shadow: 5px 5px 15px 1px black;
+    border-radius: 30px;
+}
+h1{
+    color: rgb(3, 83, 148);
+    margin: 50px;
+}
